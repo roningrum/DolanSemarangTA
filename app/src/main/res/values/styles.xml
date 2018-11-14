@@ -1,0 +1,16 @@
+<!-- Base application theme. -->
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!-- Light Indigo -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <!-- Dark Indigo -->
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- Blue -->
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+
+    </style>
+    <style name="AppTheme" parent="AppTheme.Base"></style>
+</resources>

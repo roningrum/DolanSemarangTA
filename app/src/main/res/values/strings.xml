@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DolanSemarangTA</string>
+    <string name="email_login">email</string>
+    <string name="password_login">password</string>
+    <string name="forget_password">Lupa password</string>
+    <string name="text_button_login">Login</string>
+    <string name="text_have_question">Belum memiliki akun?</string>
+    <string name="text_register_link">Daftar</string>
+    <string name="home">Beranda</string>
+    <string name="nearby">Terdekat</string>
+    <string name="calender">Event</string>
+    <string name="user">Akun</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reset_password_toolbar">Reset Password</string>
+    <string name="reset_password_warn">Masukkan email untuk reset password</string>
+    <string name="email_reset">email</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="text_update_profile">Edit</string>
+    <string name="text_email_profile_display">Email</string>
+    <string name="text_nama_profile_display">Nama</string>
+    <string name="text_akun_appbar_name">Akun</string>
+    <string name="text_button_register">Register</string>
+    <!--facebook-->
+    <string name="facebook_app_id">504768326700280</string> <string name="fb_login_protocol_scheme">fb504768326700280</string>
+</resources>

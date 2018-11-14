@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "669527753098",
+    "firebase_url": "https://dolansemarangapp.firebaseio.com",
+    "project_id": "dolansemarangapp",
+    "storage_bucket": "dolansemarangapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669527753098:android:a3d3d9bfd3c61a33",
+        "android_client_info": {
+          "package_name": "org.roningrum.dolansemarangta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669527753098-09ibpdr6n64f9r7gt46k7ulmb8o9ve8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.roningrum.dolansemarangta",
+            "certificate_hash": "569d9d491fc0ca385890090d229e1bef7d25333d"
+          }
+        },
+        {
+          "client_id": "669527753098-coc6ed4t7fedkgf0n5v2dll84pls5ac2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt74u01i5_qfB_ywVrlZgWFEdA_bqpZGo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669527753098-coc6ed4t7fedkgf0n5v2dll84pls5ac2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
