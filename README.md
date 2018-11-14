@@ -3,14 +3,17 @@ My Final project as Student at Computer Engineer Department, Diponegoro Universi
 
 ## Description
 My application is developed for finishing my last year as Student at Computer Enginner Department, Diponegoro University
-This app is implemented Google Maps API and Firebase for Authentication and Database. Only developing for Android mobile
+This app is implemented Google Maps API and Firebase for Authentication and Database. The purpose is to know how firebase can implement and update information about Semarang Tourism. Only developing for Android mobile.
 
-### Requirement
+### Development Requirement
+
+Tool
+
 Software IDE:
 1. Android Studio
 
-Supporting tools:
-1. Firebase http://firebase.com
+Supporting system tools:
+1. Firebase http://firebase.com (in this case, I used Firebase Authentication and Firebase Realtime Database)
 2. Google Maps Api
 
 SDK
