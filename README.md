@@ -3,13 +3,13 @@ My Final project as Student at Computer Engineer Department, Diponegoro Universi
 
 ## Description
 My application is developed for finishing my last year as Student at Computer Enginner Department, Diponegoro University
-This app is implemented Google Maps API and Firebase for Authentication and Database. Only developing for Android mobile##
+This app is implemented Google Maps API and Firebase for Authentication and Database. Only developing for Android mobile
 
 ### Requirement
-IDE:
+Software IDE:
 1. Android Studio
 
-Supporting tools
+Supporting tools:
 1. Firebase http://firebase.com
 2. Google Maps Api
 
